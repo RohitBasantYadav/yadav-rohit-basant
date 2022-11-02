@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohit Basant Yadav
 - 👀 I’m interested in ... Doing 
 - 🌱 I’m currently learning ... React Js
-- 💞️ I’m looking to collaborate on ...More Projects which will improve my skills and experience.
+- 💞️ I’m looking to collaborate on ... More Projects which will improve my skills and experience.
 - 📫 How to reach me ... Email-yadav.rohit.basant@gmail.com
 
 <!---
